@@ -174,7 +174,7 @@ Segmenting data to identify key performance indicators:
 #### Product Final Table
 
 <div align="center">
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Products_final_table.jpeg" width="60%">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Product_final_table.jpeg" width="60%">
 </div>
 
 ---
