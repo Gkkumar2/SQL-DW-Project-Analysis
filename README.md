@@ -1,5 +1,11 @@
 # SQL Data Analysis Project
 
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/13333499_7332.jpg" width="80%" height="300px">
+</div>
+
+---
+
 ## 🚀 Introduction
 
 Welcome to the **SQL Data Analysis Project**! This project is dedicated to **exploring, analyzing, and extracting insights** from a structured dataset using SQL. We will dive deep into **Exploratory Data Analysis (EDA)**, identifying key patterns, trends, and business insights.
