@@ -76,7 +76,7 @@ Understanding the time-based data points in our dataset:
 
 📌 *Date Range Overview*
 
-![Database Schema](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Top10%20date_range.jpeg)
+
 
 ---
 
@@ -90,8 +90,12 @@ We analyze how key metrics evolve over time to identify:
 - **Seasonality and periodic patterns**
 - **Growth or decline in key metrics**
 
-📌 *Chart Placeholder: Yearly Sales Trend*
-📌 *Chart Placeholder: Monthly Sales Distribution*
+📌 *Yearly Sales Trend*
+
+![Yearly Sales Distribution](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total%20sales%20by%20year.jpeg)
+📌 *Monthly Sales Distribution*
+
+![Monthly Sales Distribution](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Top10%20date_range.jpeg)
 
 ---
 
