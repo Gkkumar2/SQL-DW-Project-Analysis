@@ -1,7 +1,7 @@
 # SQL Data Analysis Project
 
 <div align="center">
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/13333499_7332.jpg" width="80%" height="300px">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/13333499_7332.jpg" width="98%" height="400px">
 </div>
 
 ---
