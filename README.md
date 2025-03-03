@@ -60,6 +60,7 @@ We start by understanding the structure of our database, including:
     <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions.jpeg" alt="Dimensions" style="width: 28%; height: 300px;">
     <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions2.jpeg" alt="Dimensions" style="width: 68%; height: 300px;">
 </div>
+<p> Measures </p>
 <div>
     <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Messures.jpeg" alt="Measures" style="width: 50%; height: 300px;">
 </div>
