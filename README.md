@@ -74,7 +74,9 @@ Understanding the time-based data points in our dataset:
 - **Time span of the dataset**
 - **Identifying trends based on date aggregations**
 
-📌 *Chart Placeholder: Date Range Overview*
+📌 *Date Range Overview*
+
+![Database Schema](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Top10%20date_range.jpeg)
 
 ---
 
