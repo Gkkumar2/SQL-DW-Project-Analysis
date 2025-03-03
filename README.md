@@ -141,11 +141,15 @@ Segmenting data to identify key performance indicators:
 
 - **Customer segmentation by total revenue**
 - **Product segmentation by profitability**
-- **Sales trends by region**
 
-📌 *Chart Placeholder: Customer Segmentation by Revenue*
-📌 *Chart Placeholder: Product Segmentation by Profitability*
-📌 *Chart Placeholder: Sales Trends by Region*
+📌 *Customer Segmentation by Revenue*
+
+![Customer Segmentation by Revenue](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Customer_segmnet.jpeg)
+
+📌 *Product Segmentation by Profitability*
+
+![Product Segmentation by Profitability](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Product_segment.jpeg)
+
 
 
 ---
