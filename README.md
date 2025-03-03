@@ -165,6 +165,18 @@ Segmenting data to identify key performance indicators:
 
 ## 📈 Final Tables for Dashboard, Visualization & Insights
 
+#### Customer Final Table
+
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Customer_final_table.jpeg" width="60%">
+</div>
+
+#### Product Final Table
+
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Products_final_table.jpeg" width="60%">
+</div>
+
 ---
 
 ## 🌟 Next Steps
