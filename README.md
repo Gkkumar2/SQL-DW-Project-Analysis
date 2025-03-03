@@ -93,6 +93,7 @@ We analyze how key metrics evolve over time to identify:
 📌 *Yearly Sales Trend*
 
 ![Yearly Sales Distribution](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total%20sales%20by%20year.jpeg)
+
 📌 *Monthly Sales Distribution*
 
 ![Monthly Sales Distribution](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Top10%20date_range.jpeg)
