@@ -44,7 +44,7 @@ We start by understanding the structure of our database, including:
 - **Key relationships between tables**
 
 📌 *Database Schema Overview*
-![Data Architecture](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Database%20Schema%20Overview.jpeg)
+![Database Schema](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Database%20Schema%20Overview.jpeg)
 
 
 ### 📊 Dimensions & Measures
