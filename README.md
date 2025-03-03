@@ -109,8 +109,13 @@ Breaking down key measures by dimensions to uncover high-performing categories:
 - **Top-selling product categories**
 - **Revenue distribution across customer segments**
 
-📌 *Chart Placeholder: Total Revenue by Product Category*
-📌 *Chart Placeholder: Customer Distribution by Region*
+📌 *Total Revenue by Product Category*
+
+![Total Revenue by Product Category](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Revenue%20by%20category.jpeg)
+
+📌 *Customer Distribution by Region*
+
+![Customer Distribution by Region](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Customer_ditribution%20by%20region.jpeg)
 
 ### 🏆 Ranking Analysis
 
