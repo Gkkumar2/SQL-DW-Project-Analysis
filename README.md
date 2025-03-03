@@ -21,7 +21,7 @@ This project focuses on **analyzing a dataset stored in SQL** to understand busi
 
 ---
 
-## 📂 Data Sources
+## 💒 Data Sources
 
 We will be working with structured data stored in SQL, specifically from:
 
@@ -29,11 +29,9 @@ We will be working with structured data stored in SQL, specifically from:
 2. **Sales Data** - Orders, revenue, and trends.
 3. **Product Data** - Categories and pricing information.
 
-
-
 ---
 
-## 🏗️ Exploratory Data Analysis (EDA)
+## 🏰 Exploratory Data Analysis (EDA)
 
 ### 🔍 Database Exploration
 
@@ -43,30 +41,26 @@ We start by understanding the structure of our database, including:
 - **Schema definitions**
 - **Key relationships between tables**
 
-📌 *Database Schema Overview*
-
+#### Database Schema Overview
 ![Database Schema](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Database%20Schema%20Overview.jpeg)
-
 
 ### 📊 Dimensions & Measures
 
 - **Dimensions** represent categorical attributes (e.g., country, category, customer type).
 - **Measures** represent numerical values (e.g., total sales, quantity sold).
-<div class="flex col-2">
-   
-📌 *Breakdown of Dimensions & Measures*
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions.jpeg" alt="Dimensions" style="width: 28%; height: 300px;">
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions2.jpeg" alt="Dimensions" style="width: 68%; height: 300px;">
-</div>
-<p> Measures </p>
-<div>
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Measures.jpeg" alt="Measures" style="width: 50%; height: 300px;">
-</div>
+#### Breakdown of Dimensions & Measures
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions.jpeg" width="45%">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions2.jpeg" width="45%">
 </div>
 
-### 📅 Date Exploration
+#### Measures Overview
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Measures.jpeg" width="60%">
+</div>
+
+### 🗓 Date Exploration
 
 Understanding the time-based data points in our dataset:
 
@@ -74,13 +68,9 @@ Understanding the time-based data points in our dataset:
 - **Time span of the dataset**
 - **Identifying trends based on date aggregations**
 
-📌 *Date Range Overview*
-
-
-
 ---
 
-## 📅 Time-Based Analysis
+## 🗓 Time-Based Analysis
 
 ### 🔄 Changes Over Time
 
@@ -90,13 +80,15 @@ We analyze how key metrics evolve over time to identify:
 - **Seasonality and periodic patterns**
 - **Growth or decline in key metrics**
 
-📌 *Yearly Sales Trend*
+#### Yearly Sales Trend
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total%20sales%20by%20year.jpeg" width="60%">
+</div>
 
-![Yearly Sales Distribution](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total%20sales%20by%20year.jpeg)
-
-📌 *Monthly Sales Distribution*
-
-![Monthly Sales Distribution](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Top10%20date_range.jpeg)
+#### Monthly Sales Distribution
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Top10%20date_range.jpeg" width="60%">
+</div>
 
 ---
 
@@ -109,13 +101,15 @@ Breaking down key measures by dimensions to uncover high-performing categories:
 - **Top-selling product categories**
 - **Revenue distribution across customer segments**
 
-📌 *Total Revenue by Product Category*
+#### Total Revenue by Product Category
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Revenue%20by%20category.jpeg" width="60%">
+</div>
 
-![Total Revenue by Product Category](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Revenue%20by%20category.jpeg)
-
-📌 *Customer Distribution by Region*
-
-![Customer Distribution by Region](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Customer_ditribution%20by%20region.jpeg)
+#### Customer Distribution by Region
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Customer_ditribution%20by%20region.jpeg" width="60%">
+</div>
 
 ### 🏆 Ranking Analysis
 
@@ -125,13 +119,15 @@ Ranking entities based on performance metrics:
 - **Top 10 highest revenue-generating customers**
 - **Bottom 3 underperforming categories**
 
-📌 *Top 5 Products by Sales*
+#### Top 5 Products by Sales
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total_revenue_by_product.jpeg" width="60%">
+</div>
 
-![Top 5 Products by Sales](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total_revenue_by_product.jpeg)
-
-📌 *Top 10 Customers by Revenue*
-
-![Top 10 Customers by Revenue](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total_revenue_by_customer.jpeg)
+#### Top 10 Customers by Revenue
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total_revenue_by_customer.jpeg" width="60%">
+</div>
 
 ---
 
@@ -142,19 +138,19 @@ Segmenting data to identify key performance indicators:
 - **Customer segmentation by total revenue**
 - **Product segmentation by profitability**
 
-📌 *Customer Segmentation by Revenue*
+#### Customer Segmentation by Revenue
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Customer_segmnet.jpeg" width="60%">
+</div>
 
-![Customer Segmentation by Revenue](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Customer_segmnet.jpeg)
-
-📌 *Product Segmentation by Profitability*
-
-![Product Segmentation by Profitability](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Product_segment.jpeg)
-
-
+#### Product Segmentation by Profitability
+<div align="center">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Product_segment.jpeg" width="60%">
+</div>
 
 ---
 
-## 📖 Installation & Setup
+## 📚 Installation & Setup
 
 1. **Clone this repository**:
    ```bash
@@ -167,42 +163,11 @@ Segmenting data to identify key performance indicators:
 
 ---
 
-## 📊 Findings & Visualizations
-
-All findings from the analysis are documented with appropriate visualizations.
-
-📌 *Chart Placeholder: Summary of Key Insights*
+## 📈 Final Tables for Dashboard, Visualization & Insights
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit changes (`git commit -m 'Added new analysis'`)
-4. Push to GitHub (`git push origin feature-name`)
-5. Submit a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 📬 Contact
-
-For any questions or discussions, feel free to reach out:
-
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **GitHub Issues**: Open a ticket if you encounter any issues
-
----
-
-## 🎯 Next Steps
+## 🌟 Next Steps
 
 -
 
