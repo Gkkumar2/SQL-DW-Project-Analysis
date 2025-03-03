@@ -125,9 +125,13 @@ Ranking entities based on performance metrics:
 - **Top 10 highest revenue-generating customers**
 - **Bottom 3 underperforming categories**
 
-📌 *Chart Placeholder: Top 5 Products by Sales*
-📌 *Chart Placeholder: Top 10 Customers by Revenue*
-📌 *Chart Placeholder: Bottom 3 Product Categories by Sales*
+📌 *Top 5 Products by Sales*
+
+![Top 5 Products by Sales](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total_revenue_by_product.jpeg)
+
+📌 *Top 10 Customers by Revenue*
+
+![Top 10 Customers by Revenue](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Total_revenue_by_customer.jpeg)
 
 ---
 
@@ -143,30 +147,6 @@ Segmenting data to identify key performance indicators:
 📌 *Chart Placeholder: Product Segmentation by Profitability*
 📌 *Chart Placeholder: Sales Trends by Region*
 
----
-
-## 📁 Project Structure
-
-```
-📂 SQL-Data-Analysis
-├── 📂 Data-Sources
-│   ├── sales_data.sql
-│   ├── customer_data.sql
-│   ├── product_data.sql
-│
-├── 📂 Queries
-│   ├── 01_exploratory_analysis.sql
-│   ├── 02_time_trends.sql
-│   ├── 03_magnitude_ranking.sql
-│   ├── 04_performance_segmentation.sql
-│
-├── 📂 Documentation
-│   ├── database_schema.png
-│   ├── findings_report.md
-│   ├── key_insights_charts/
-│
-├── 📜 README.md
-```
 
 ---
 
