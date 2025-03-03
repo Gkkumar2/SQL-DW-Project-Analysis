@@ -52,8 +52,13 @@ We start by understanding the structure of our database, including:
 
 - **Dimensions** represent categorical attributes (e.g., country, category, customer type).
 - **Measures** represent numerical values (e.g., total sales, quantity sold).
-
-📌 *Chart Placeholder: Breakdown of Dimensions & Measures*
+<div class = 'flex col-2'>
+   
+📌 *Breakdown of Dimensions & Measures*
+![Dimensions](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions.jpeg)
+![Dimensions](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions2.jpeg)
+![Measures](https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Messures.jpeg)  
+</div>
 
 ### 📅 Date Exploration
 
