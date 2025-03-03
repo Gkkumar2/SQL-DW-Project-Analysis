@@ -57,11 +57,11 @@ We start by understanding the structure of our database, including:
 📌 *Breakdown of Dimensions & Measures*
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions.jpeg" alt="Dimensions" style="width: 48%; height: 300px;">
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions2.jpeg" alt="Dimensions" style="width: 48%; height: 300px;">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions.jpeg" alt="Dimensions" style="width: 28%; height: 300px;">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Dimensions2.jpeg" alt="Dimensions" style="width: 68%; height: 300px;">
 </div>
 <div>
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Messures.jpeg" alt="Measures" style="width: 100%; height: 300px;">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Messures.jpeg" alt="Measures" style="width: 50%; height: 300px;">
 </div>
 </div>
 
