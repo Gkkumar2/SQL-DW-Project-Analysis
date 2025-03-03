@@ -62,7 +62,7 @@ We start by understanding the structure of our database, including:
 </div>
 <p> Measures </p>
 <div>
-    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Messures.jpeg" alt="Measures" style="width: 50%; height: 300px;">
+    <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/Measures.jpeg" alt="Measures" style="width: 50%; height: 300px;">
 </div>
 </div>
 
