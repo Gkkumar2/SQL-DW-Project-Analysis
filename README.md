@@ -1,6 +1,6 @@
-# SQL Data Analysis Project
 
 <div align="center">
+    <h1>SQL Data Analysis Project</h1>
     <img src="https://github.com/Gkkumar2/SQL-DW-Project-Analysis/blob/main/docs/13333499_7332.jpg" width="98%" height="400px">
 </div>
 
