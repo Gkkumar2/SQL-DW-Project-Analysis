@@ -194,7 +194,5 @@ Segmenting data to identify key performance indicators:
 
 ## 🌟 Next Steps
 
--
-
-Happy Analyzing! 🚀
+- Dashboard and Insights
 
