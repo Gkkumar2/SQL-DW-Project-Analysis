@@ -8,7 +8,11 @@
 
 ## 🚀 Introduction
 
-<p align="justify">Welcome to the **SQL Data Analysis Project**! This project is dedicated to **exploring, analyzing, and extracting insights** from a structured dataset using SQL. We will dive deep into **Exploratory Data Analysis (EDA)**, identifying key patterns, trends, and business insights.</p>
+Welcome to the **SQL Data Analysis Project**! This project is dedicated to **exploring, analyzing, and extracting insights** from a structured dataset using SQL. We will dive deep into **Exploratory Data Analysis (EDA)**, identifying key patterns, trends, and business insights.
+<p align="justify">
+    Welcome to the <b>SQL Data Analysis Project</b>! This project is dedicated to <b>exploring, analyzing, and extracting insights</b> from a structured dataset using SQL. We will dive deep into <b>Exploratory Data Analysis (EDA)</b>, identifying key patterns, trends, and business insights.
+</p>
+
 
 ---
 
